@@ -1,0 +1,113 @@
+{
+  "title": "Evelyne Butoyi",
+  "pageID": 13528295,
+  "categories": [
+    "Femme politique burundaise",
+    "Ministre burundaise"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Evelyne Butoyi est une femme politique burundaise.",
+              "links": [
+                {
+                  "text": "femme politique",
+                  "type": "internal",
+                  "page": "Personnalité politique"
+                },
+                {
+                  "text": "burundaise",
+                  "type": "internal",
+                  "page": "Burundi"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Evelyne Butoyi"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "personnalité politique",
+            "Burundi"
+          ],
+          "template": "ébauche"
+        }
+      ],
+      "infoboxes": [
+        {}
+      ]
+    },
+    {
+      "title": "Carrière politique",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Evelyne Butoyi est ministre de la Jeunesse, des Postes et des Technologies de l’information, du Burundi depuis le 19 avril 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Burundi"
+                }
+              ]
+            },
+            {
+              "text": "Nommée Porte-Parole du Président de la République du Burundi le 08 février 2021."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Notes et références",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "références"
+        },
+        {
+          "template": "cledetri:butoyi, evelyne"
+        },
+        {
+          "list": [
+            "Politique",
+            "Burundi"
+          ],
+          "template": "portail"
+        }
+      ]
+    }
+  ]
+}
