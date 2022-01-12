@@ -1,0 +1,64 @@
+{
+  "title": "Albert Shingiro",
+  "pageID": 68067462,
+  "categories": [
+    "1970 births",
+    "Living people",
+    "Burundian diplomats",
+    "Burundian politicians",
+    "Members of the Parliament of Burundi",
+    "Government ministers of Burundi"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Albert Shingiro (born 31 December 1970) is a Burundian diplomat.",
+              "links": [
+                {
+                  "text": "Burundian",
+                  "type": "internal",
+                  "page": "Demographics of Burundi"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Albert Shingiro"
+                ]
+              }
+            },
+            {
+              "text": "He is serving as the Minister of Foreign Affairs and Development Cooperation in the Republic of Burundi.",
+              "links": [
+                {
+                  "text": "Republic of Burundi",
+                  "type": "internal",
+                  "page": "Burundi"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Burundian Minister of Foreign Affairs Albert Shingiro.png",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Burundian_Minister_of_Foreign_Affairs_Albert_Shingiro.png?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Burundian_Minister_of_Foreign_Affairs_Albert_Shingiro.png",
+          "caption": "Shingiro in 2020",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Burundian diplomat and politician",
+          "template": "short description"
+        }
+      ]
+    }
+  ]
+}
