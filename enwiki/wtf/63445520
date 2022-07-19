@@ -1,0 +1,174 @@
+{
+  "title": "Domitien Ndihokubwayo",
+  "pageID": 63445520,
+  "categories": [
+    "Living people",
+    "1966 births",
+    "National Council for the Defense of Democracy – Forces for the Defense of Democracy politicians",
+    "Government ministers of Burundi",
+    "Finance ministers",
+    "Sotho people",
+    "People from Ngozi Province"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Domitien Ndihokubwayo (born October 4, 1966 in Ngozi Province) is a Burundian politician CNDD-FDD who has been serving as the Minister of Finance in the governments of Prime Minister Alain-Guillaume Bunyoni since May 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ngozi Province"
+                },
+                {
+                  "text": "Burundian",
+                  "type": "internal",
+                  "page": "Burundi"
+                },
+                {
+                  "type": "internal",
+                  "page": "CNDD-FDD"
+                },
+                {
+                  "text": "governments",
+                  "type": "internal",
+                  "page": "Council of Ministers (Burundi)"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Burundi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alain-Guillaume Bunyoni"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Domitien Ndihokubwayo"
+                ]
+              }
+            },
+            {
+              "text": "He succeeded Tabu Abdallah.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tabu Abdallah"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Burundian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.china.org.cn/world/Off_the_Wire/2016-05/24/content_38519293.htm",
+          "title": "Burundi's president swears-in new finance minister",
+          "publisher": "China Internet Information Center",
+          "date": "24 May 2016",
+          "accessdate": "5 April 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.infosgrandslacs.info/productions/dr-domitien-ndihokubwayo-devient-ministre-des-finances",
+          "title": "Dr Domitien Ndihokubwayo devient Ministre des finances",
+          "date": "2016-05-20",
+          "website": "IGL - Infos Grands Lacs",
+          "language": "fr",
+          "access-date": "2020-03-22",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Prior to this appointment, Ndihokubwayo was in charge of the Burundi Revenue Authority (OBR)."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In his capacity as minister, Ndihokubwayo has been serving as chair of the International Monetary Fund's African Caucus since 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "International Monetary Fund"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Other activities",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "African Development Bank (AfDB), Ex-Officio Member of the Board of Governors (since 2016)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "African Development Bank"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "burundi-politician-stub"
+        }
+      ]
+    }
+  ]
+}
