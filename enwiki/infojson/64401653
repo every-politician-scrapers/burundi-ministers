@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Vice-President of Burundi"
+      ],
+      "stated_as": "Vice President of Burundi"
+    },
+    "P580": "2014-02-14",
+    "P1365": {
+      "links": [
+        "Bernard Busokoza"
+      ],
+      "stated_as": "Bernard Busokoza"
+    },
+    "P582": "2015-08-20",
+    "P1366": {
+      "links": [
+        "Gaston Sindimwo"
+      ],
+      "stated_as": "Gaston Sindimwo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice-President of Burundi"
+      ],
+      "stated_as": "Vice President of Burundi"
+    },
+    "P580": "2020-06-23",
+    "P1365": {
+      "links": [
+        "Gaston Sindimwo"
+      ],
+      "stated_as": "Gaston Sindimwo"
+    }
+  }
+]
